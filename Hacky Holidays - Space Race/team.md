@@ -1,6 +1,6 @@
 
 # Team Members
-* always1root - VasaLadacki
+* always1root
 * WildAwesome
 * c23075
 
